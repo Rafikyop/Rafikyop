@@ -16,8 +16,6 @@
 <h1 align="center">Hi 👋, I'm Carlos but you can call me Rafiky</h1>
 <h3 align="center">A passionate frontend developer from Colombia</h3>
 
-<p align="left"> <a href="https://twitter.com/rafikyop" target="blank"><img src="https://img.shields.io/twitter/follow/rafikyop?logo=twitter&style=for-the-badge" alt="rafikyop" /></a> </p>
-
 - 🌱 I’m currently learning **Frameworks, more FrontEnds Tools**
 
 - 💬 Ask me about **React, Js, SASS.**
