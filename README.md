@@ -16,7 +16,7 @@
 <h1 align="center">Hi 👋, I'm Carlos but you can call me Rafiky</h1>
 <h3 align="center">A passionate frontend developer from Colombia</h3>
 
-- 🌱 I’m currently learning **Frameworks, more FrontEnds Tools**
+- 🌱 I’m currently learning **Next.js / SQL**
 
 - 💬 Ask me about **React, Js, SASS.**
 
