@@ -14,12 +14,10 @@
 <img align="right" alt="GIF" src="https://github.com/darshan-jain/darshan-jain/blob/master/rick.gif" />
 
 <h1 align="center">Hi 👋, I'm Carlos but you can call me Rafiky</h1>
-<h3 align="center">A passionate frontend developer from Colombia</h3>
+<h3 align="center">A passionate developer from Colombia</h3>
 
-- 🌱 I’m currently learning **Next.js / SQL**
-
-- 💬 Ask me about **React, Js, SASS.**
-
+- 🌱 I’m currently learning **Java / Studying Software Engineering**
+- 
 - 📫 How to reach me **rafikyop@gmail.com**
 
 <h3 align="left">Languages and Tools:</h3>
