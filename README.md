@@ -17,7 +17,6 @@
 <h3 align="center">A passionate developer from Colombia</h3>
 
 - 🌱 I’m currently learning **Java / Studying Software Engineering**
-- 
 - 📫 How to reach me **rafikyop@gmail.com**
 
 <h3 align="left">Languages and Tools:</h3>
